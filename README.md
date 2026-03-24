@@ -20,6 +20,6 @@ Run The Program :
 cargo run -q
 ```
 
-To EXIT the program JUST hit CTRL + C or any other character makes this programs errors 
+To EXIT the program JUST hit CTRL + C or any other character makes this program errors 
 
 # Thanks For Using Simple-Qualcalator in Rust 💪
